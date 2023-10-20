@@ -12,7 +12,7 @@ I am a person like adapt to some different technology (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on Strata ID
+- 🔭 &nbsp; I’m currently working on Bank Riau Kepri Syariah
 - 🌱 &nbsp; I’m currently learning Flutter; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/andrianazz?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
